@@ -15,7 +15,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <DynamicContextProvider
       settings={{
-        environmentId: process.env.NEXT_PUBLIC_DYNAMIC_PROJECT_ID,
+        environmentId: process.env.NEXT_PUBLIC_DYNAMIC_ENVIRONMENT_ID,
       }}
     >
       <DynamicWagmiConnector>
