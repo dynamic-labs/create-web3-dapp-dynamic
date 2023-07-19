@@ -1,5 +1,5 @@
-
 'use client'
+
 import {DynamicWidget } from "@dynamic-labs/sdk-react";
 
 import styles from "./navbar.module.css";
