@@ -1,5 +1,5 @@
 'use client'
-import { useDynamicContext } from "@dynamic-labs/sdk-react";
+import { useDynamicContext } from "@dynamic-labs/sdk-react-core";
 
 import InstructionsComponent from "@/components/instructionsComponent";
 import NftGallery from "@/components/nftGalleryComponent";

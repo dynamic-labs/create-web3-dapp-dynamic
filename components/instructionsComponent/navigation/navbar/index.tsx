@@ -1,6 +1,6 @@
 'use client'
 
-import {DynamicWidget } from "@dynamic-labs/sdk-react";
+import { DynamicWidget } from "@dynamic-labs/sdk-react-core";
 
 import styles from "./navbar.module.css";
 export default function Navbar() {
